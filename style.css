@@ -71,3 +71,13 @@ ul li {
   line-height: 1.00em;
   color: rgb(65, 30, 47);
 }
+
+figcaption {
+  font-size: 1.00em;
+  line-height: 1.00em ;
+  padding-top: .50em;
+  padding-bottom: .50em;
+  padding-left: 7.00em;
+  text-align: center-left;  
+  color: black;  
+}
