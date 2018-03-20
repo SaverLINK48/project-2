@@ -45,6 +45,14 @@ h2 {
   font-size: 1.80em;
   color: rgb(65, 30, 47);
   line-height: .05em;
-  padding-top: .05em;
+  padding-top: .25em;
   padding-bottom: .05em;
 }
+
+h3 {
+  font-size: 1.10em;
+  line-height: .35em;
+  padding-top: .35em;
+  padding-bottom: .15em;
+}
+
