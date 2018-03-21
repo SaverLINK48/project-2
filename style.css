@@ -142,8 +142,8 @@ ol li {
  font-size: 1.00; 
  display: block;
  line-height: 1.00em;
- padding-top: 0.10em;
- padding-bottom: 0.10em;
+ padding-top: 0.20em;
+ padding-bottom: 0.20em;
  padding-left: 0.10em;
  padding-right: 0.10em;
  background-color: rgb(35, 120, 17); 
@@ -152,8 +152,9 @@ ol li {
 #footer li {
   display: block;
   padding-top: 0.10em;
-  padding-bottom: 0.10em;
-  background-color: rgb(35, 120, 17); 
+  padding-bottom: 0.30em;
+  padding-left: 0.30em;
+  background-color: rgb(255, 180, 147); 
 }
 
 #footer ul {
