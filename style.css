@@ -8,30 +8,6 @@ html {
   background-color: rgb(65, 30, 47);
 }
 
-.navi ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-
-.navi li {
-  float: left;
-}
-
-.navi li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.active {
-  background-color: rgb(65, 30, 47);
-}
-
 body {
   padding-top: 2.00em;
   padding-right: 1.28em;
@@ -132,4 +108,29 @@ ol li {
   line-height: .30em ;
   padding-top: 0.30em;
   padding-bottom: .10em;  
+}
+
+
+.navi ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navi li {
+  float: left;
+}
+
+.navi li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active {
+  background-color: rgb(65, 30, 47);
 }
