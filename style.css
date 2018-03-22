@@ -64,7 +64,7 @@ h3 {
 
 ul {
   font-size: 1.00em;
-  list-style-type: katakana-iroha;
+  list-style-type: hiragana-iroha;
   line-height: 1.05em;
   padding-top: .15em;
   padding-bottom: .35em;
@@ -135,6 +135,17 @@ ol li {
 
 .active {
   background-color: rgb(65, 30, 47);
+}
+
+
+article.first ul li {
+  list-style-type: katakana-iroha;
+  font-family: yu-gothic;
+}
+
+article.third ul li {
+  list-style-type: lower-greek;
+  font-family: georgia;
 }
 
 
