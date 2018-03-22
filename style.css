@@ -121,6 +121,7 @@ ol li {
 }
 
 .navi li {
+  list-style-type: none;
   float: left;
 }
 
@@ -144,8 +145,8 @@ ol li {
  line-height: 1.00em;
  padding-top: 0.30em;
  padding-bottom: 0.30em;
- padding-left: 0.10em;
- padding-right: 0.10em;
+ padding-left: 0.06em;
+ padding-right: 0.06em;
  background-color: rgb(65, 30, 47); 
 }
 
