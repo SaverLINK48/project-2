@@ -55,13 +55,17 @@ h2 {
   padding-bottom: .05em;
 }
 
-h2:before {
+.resu { 
+  text-decoration-line: overline;
+}
+
+/*h2:before {
   content:' ';
   display:block;
   border:2px solid black;
   text-decoration-line: overline;
   
-}
+}*/
 
 h3 {
   font-size: 1.10em;
