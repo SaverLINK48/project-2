@@ -71,7 +71,6 @@ h2 {
   display:block;
   border:2px solid black;
   text-decoration-line: overline;
-  
 }*/
 
 h3 {
@@ -123,9 +122,9 @@ ol {
 }
 
 ol li {
-  font-size: 0.90em; 
+  font-size: .90em; 
   list-style-type: disc;
-  line-height: .30em ;
+  line-height: 1.00em ;
   padding-top: 0.30em;
   padding-bottom: .10em;  
 }
