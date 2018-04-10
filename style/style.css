@@ -62,7 +62,8 @@ h2 {
 }
 
 .resu { 
-  text-decoration-line: overline;
+  border-top: 2px solid black;
+  padding-top: 0.50em;
 }
 
 /*h2:before {
